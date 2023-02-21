@@ -1,1 +1,2 @@
 # Cal_School_Credit
+単位計算を自動化したExcelファイルを保管
